@@ -1,0 +1,12 @@
+[submodule "handbook_qa"]
+	path = handbook_qa
+	url = ./handbook_qa
+[submodule "mate_qa"]
+	path = mate_qa
+	url = ./mate_qa/
+[submodule "handbook_qa_preprocessing"]
+	path = handbook_qa_preprocessing
+	url = ./handbook_qa_preprocessing/
+[submodule "pandemic_rl"]
+	path = pandemic_rl
+	url = ./pandemic_rl/
