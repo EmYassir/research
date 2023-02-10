@@ -1,6 +1,6 @@
 [submodule "handbook_qa"]
 	path = handbook_qa
-	url = ./handbook_qa
+	url = https://github.com/EmYassir/research/handbook_qa.git
 [submodule "mate_qa"]
 	path = mate_qa
 	url = ./mate_qa/
